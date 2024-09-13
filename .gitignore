@@ -22,3 +22,18 @@ appsettings.Development.json
 
 # Other patterns
 *.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore specific files
+onboardingtask.client/.eslintrc.cjs
+onboardingtask.client/.gitignore
+onboardingtask.client/README.md
+onboardingtask.client/index.html
+onboardingtask.client/package-lock.json
+onboardingtask.client/package.json
+
+# Ignore all package-lock.json files
+package-lock.json
+
