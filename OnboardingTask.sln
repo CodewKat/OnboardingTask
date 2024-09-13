@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnboardingTask.Server", "OnboardingTask.Server\OnboardingTask.Server.csproj", "{A86F1CB2-AB73-4256-9716-984594147464}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "onboardingtask.client", "onboardingtask.client\onboardingtask.client.esproj", "{27E11C50-BA8C-47D5-AC20-921405DFFB55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A86F1CB2-AB73-4256-9716-984594147464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86F1CB2-AB73-4256-9716-984594147464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86F1CB2-AB73-4256-9716-984594147464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86F1CB2-AB73-4256-9716-984594147464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E11C50-BA8C-47D5-AC20-921405DFFB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E11C50-BA8C-47D5-AC20-921405DFFB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E11C50-BA8C-47D5-AC20-921405DFFB55}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{27E11C50-BA8C-47D5-AC20-921405DFFB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E11C50-BA8C-47D5-AC20-921405DFFB55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E11C50-BA8C-47D5-AC20-921405DFFB55}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B369914-8BCF-4428-B718-C1558AF32E6E}
+	EndGlobalSection
+EndGlobal
